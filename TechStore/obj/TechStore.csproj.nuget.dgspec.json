@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVCProjects\\TechStore\\TechStore\\TechStore.csproj": {}
+    "D:\\MVCProjects\\techStore\\TechStore\\TechStore.csproj": {}
   },
   "projects": {
-    "D:\\MVCProjects\\TechStore\\TechStore\\TechStore.csproj": {
+    "D:\\MVCProjects\\techStore\\TechStore\\TechStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVCProjects\\TechStore\\TechStore\\TechStore.csproj",
+        "projectUniqueName": "D:\\MVCProjects\\techStore\\TechStore\\TechStore.csproj",
         "projectName": "TechStore",
-        "projectPath": "D:\\MVCProjects\\TechStore\\TechStore\\TechStore.csproj",
+        "projectPath": "D:\\MVCProjects\\techStore\\TechStore\\TechStore.csproj",
         "packagesPath": "C:\\Users\\seif medhat\\.nuget\\packages\\",
-        "outputPath": "D:\\MVCProjects\\TechStore\\TechStore\\obj\\",
+        "outputPath": "D:\\MVCProjects\\techStore\\TechStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\seif medhat\\AppData\\Roaming\\NuGet\\NuGet.Config",

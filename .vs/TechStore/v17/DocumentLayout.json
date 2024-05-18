@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\MVCProjects\\TechStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\data\\techstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\data\\techstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,43 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TechStore\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TechStore\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:16:02.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TechStore\\Models\\Category.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Category.cs",
+              "RelativeToolTip": "TechStore\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:16:02.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "TechStore\\Models\\Brand.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Brand.cs",
+              "RelativeToolTip": "TechStore\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:16:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TechStore\\Models\\Product.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Product.cs",
+              "RelativeToolTip": "TechStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:16:00.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "TechStore\\GlobalUsings.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\GlobalUsings.cs",
+              "RelativeToolTip": "TechStore\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:20:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Program.cs",
               "RelativeDocumentMoniker": "TechStore\\Program.cs",
               "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Program.cs",
               "RelativeToolTip": "TechStore\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T02:49:51.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\appsettings.json",
               "RelativeDocumentMoniker": "TechStore\\appsettings.json",
               "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\appsettings.json",
               "RelativeToolTip": "TechStore\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-18T02:40:55.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TechStoreDBcontext.cs",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Data\\TechStoreDBcontext.cs",
-              "RelativeDocumentMoniker": "TechStore\\Data\\TechStoreDBcontext.cs",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Data\\TechStoreDBcontext.cs",
-              "RelativeToolTip": "TechStore\\Data\\TechStoreDBcontext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\techStore\\TechStore\\Data\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "TechStore\\Data\\AppDBcontext.cs",
+              "ToolTip": "D:\\MVCProjects\\techStore\\TechStore\\Data\\AppDBcontext.cs",
+              "RelativeToolTip": "TechStore\\Data\\AppDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T02:13:54.055Z",
               "EditorCaption": ""
