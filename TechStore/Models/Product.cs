@@ -1,7 +1,10 @@
-﻿namespace TechStore.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace TechStore.Models
 {
     public class Product : BaseEntity
     {
+        [Precision(10 , 2)]
         public decimal Price { get; set; }
 
         [MaxLength(2000)]
