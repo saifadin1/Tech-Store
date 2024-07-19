@@ -1,6 +1,4 @@
-﻿
-
-namespace TechStore.Controllers
+﻿namespace TechStore.Controllers
 {
     public class ProductsController : Controller
     {
@@ -46,9 +44,23 @@ namespace TechStore.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(CreateProductFormViewModel model)
         {
-            if (!ModelState.IsValid)
+			model.Brands = _DbContext.Brands.Select(b => new SelectListItem
+			{
+				Value = b.Id.ToString(),
+				Text = b.Name
+			})
+			.OrderBy(b => b.Text)
+			.ToList();
+			model.Categories = _DbContext.Categories.Select(c => new SelectListItem
+			{
+				Value = c.Id.ToString(),
+				Text = c.Name
+			})
+			.OrderBy(c => c.Text)
+			.ToList();
+			if (!ModelState.IsValid)    
             {
-                return View();
+                return View(model);
             }
             return RedirectToAction(nameof(Index));
         }

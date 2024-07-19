@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\reposervices\\categoryreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\reposervices\\categoryreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\reposervices\\productreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\reposervices\\productreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\viewmodels\\createproductformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\viewmodels\\createproductformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|d:\\mvcprojects\\techstore\\techstore\\reposervices\\brandreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA630EC-C393-45C7-B063-589DD128792C}|TechStore\\TechStore.csproj|solutionrelative:techstore\\reposervices\\brandreposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateProductFormViewModel.cs",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\ViewModels\\CreateProductFormViewModel.cs",
-              "RelativeDocumentMoniker": "TechStore\\ViewModels\\CreateProductFormViewModel.cs",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\ViewModels\\CreateProductFormViewModel.cs",
-              "RelativeToolTip": "TechStore\\ViewModels\\CreateProductFormViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T21:47:08.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "TechStore\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "TechStore\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAwAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T02:34:32.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "TechStore\\GlobalUsings.cs",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\GlobalUsings.cs",
-              "RelativeToolTip": "TechStore\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T21:25:26.908Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -83,35 +36,49 @@
               "RelativeDocumentMoniker": "TechStore\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "TechStore\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCkAAAAjAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T21:02:19.117Z",
+              "WhenOpened": "2024-07-19T15:28:43.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "TechStore\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "TechStore\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T02:38:54.668Z",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepoService.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\CategoryRepoService.cs",
+              "RelativeDocumentMoniker": "TechStore\\RepoServices\\CategoryRepoService.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\CategoryRepoService.cs",
+              "RelativeToolTip": "TechStore\\RepoServices\\CategoryRepoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:24:03.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TechStore\\Models\\Product.cs",
-              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\Models\\Product.cs",
-              "RelativeToolTip": "TechStore\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProductRepoService.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\ProductRepoService.cs",
+              "RelativeDocumentMoniker": "TechStore\\RepoServices\\ProductRepoService.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\ProductRepoService.cs",
+              "RelativeToolTip": "TechStore\\RepoServices\\ProductRepoService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T02:19:56.647Z"
+              "WhenOpened": "2024-07-19T15:20:30.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandRepoService.cs",
+              "DocumentMoniker": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\BrandRepoService.cs",
+              "RelativeDocumentMoniker": "TechStore\\RepoServices\\BrandRepoService.cs",
+              "ToolTip": "D:\\MVCProjects\\TechStore\\TechStore\\RepoServices\\BrandRepoService.cs",
+              "RelativeToolTip": "TechStore\\RepoServices\\BrandRepoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:17:29.034Z",
+              "EditorCaption": ""
             }
           ]
         }
