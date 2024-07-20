@@ -1,3 +1,5 @@
+using TechStore.RepoServices;
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -7,6 +9,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<AppDBcontext>(options => 
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IProductRepository, ProductRepoService>();
+builder.Services.AddScoped<IBrandRepository, BrandRepoService>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepoService>();
+
 
 var app = builder.Build();
 
@@ -22,7 +29,6 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseRouting();
-app.Run();
 app.MapControllerRoute(
 	name: "default",
 	pattern: "{controller=Home}/{action=Index}/{id?}");
@@ -34,5 +40,4 @@ app.UseStaticFiles();
 
 app.UseAuthorization();
 
-
-
+app.Run();

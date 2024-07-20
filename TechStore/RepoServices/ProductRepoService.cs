@@ -37,8 +37,7 @@ namespace TechStore.RepoServices
 
 		public IEnumerable<Product> GetProducts()
 		{
-			return Context.Products.Include(p=>p.BrandId)
-									.Include(p=>p.CategoryId)
+			return Context.Products
 									.ToList();
 		}
 
@@ -54,6 +53,7 @@ namespace TechStore.RepoServices
 				product1.Name = product.Name;
 				product1.Cover = product.Cover;
 			}
+			Context.SaveChanges();
 		}
 	}
 }

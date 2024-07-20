@@ -23,6 +23,6 @@ namespace TechStore.ViewModels
         public IEnumerable<SelectListItem> Categories { get; set; } = Enumerable.Empty<SelectListItem>();
 
         [MaxLength(500)]
-        public IFormFile Cover { get; set; } = default!; 
+        public string Cover { get; set; } = default!; 
     }
 }
