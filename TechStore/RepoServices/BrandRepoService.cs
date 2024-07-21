@@ -16,6 +16,7 @@ namespace TechStore.RepoServices
 			if(brand != null)
 			{
 				Context.Brands.Add(brand);
+				Context.SaveChanges();
 			}
 		}
 
@@ -25,6 +26,7 @@ namespace TechStore.RepoServices
 			if(brand != null)
 			{
 				Context.Brands.Remove(brand);
+				Context.SaveChanges();
 			}
 		}
 
@@ -46,6 +48,7 @@ namespace TechStore.RepoServices
 				EditedBrand.Description = brand.Description;
 				EditedBrand.Name = brand.Name;
 				EditedBrand.Icon = brand.Icon;
+				Context.SaveChanges();
 			}
 		}
 	}
